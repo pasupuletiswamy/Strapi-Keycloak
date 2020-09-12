@@ -1,0 +1,10 @@
+{
+  "host": "localhost",
+  "port": 1338,
+  "cron": {
+    "enabled": false
+  },
+  "admin": {
+    "path": "/dashboard" 
+  }
+}
